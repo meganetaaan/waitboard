@@ -1,0 +1,18 @@
+.WaitCardList {
+  display: flex;
+  flex-direction: row;
+}
+
+.cooking {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  flex-wrap: wrap;
+}
+
+.serving {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  flex-wrap: wrap;
+}

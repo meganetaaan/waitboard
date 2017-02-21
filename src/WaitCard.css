@@ -1,0 +1,9 @@
+.WaitCard {
+  width: 90%;
+  max-width: 100px;
+  margin: 10px;
+  font-size: 2em;
+  background-color: #fafafa;
+  color: #212121;
+  box-shadow: rgba(0, 0, 0, 0.701961) 0px 0px 4px, rgba(0, 0, 0, 0.137255) 0px 2px 4px;
+}
